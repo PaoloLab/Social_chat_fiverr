@@ -2,6 +2,12 @@
 
 A new Flutter application.
 
+
+Google Firebase credentials\
+username : simplechat.fiveer@gmail.com\
+password : @qwerty123456!
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
