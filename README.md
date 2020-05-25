@@ -1,12 +1,9 @@
-# simplechatfiverr
+# Social Chat
 
 A new Flutter application.
 
 
-Google Firebase credentials\
-username : simplechat.fiveer@gmail.com\
-password : @qwerty123456!
-
+with Google Firebase 
 
 ## Getting Started
 
